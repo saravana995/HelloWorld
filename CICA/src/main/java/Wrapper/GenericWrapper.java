@@ -31,6 +31,7 @@ import Wrapper.Reporting;
 
 public class GenericWrapper extends Reporting implements Wrapper {
 	
+	/*changes done asap*/
 	public  RemoteWebDriver driver;
 	
 	int i= 1;
